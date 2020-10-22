@@ -8,3 +8,10 @@ alarm_set(0, 30);
 /// @DnDHash : 3C65DB91
 /// @DnDArgument : "code" "canShoot = true;"
 canShoot = true;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 462AFB3E
+/// @DnDArgument : "expr" "100"
+/// @DnDArgument : "var" "hp"
+hp = 100;
