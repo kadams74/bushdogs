@@ -1,7 +1,8 @@
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 1784EC06
-alarm_set(0, 30);
+/// @DnDArgument : "steps" "15"
+alarm_set(0, 15);
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
